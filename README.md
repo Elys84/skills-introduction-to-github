@@ -1,4 +1,4 @@
-<header>
+<HELLO>
 
 <!--
   <<< Author notes: Course header >>>
